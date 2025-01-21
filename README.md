@@ -1,5 +1,5 @@
 # Bad Trip
-2024년 서울여자대학교 디지털미디어학과 캡스톤디자인설계 졸업 프로젝<br/>
+2024년 서울여자대학교 디지털미디어학과 캡스톤디자인설계 졸업 프로젝트<br/>
 
 2D 픽셀 스토리 PC 게임<br/>
 청소년 마약 범죄의 심각성을 알리고 마약 중독에 대한 경각심을 심어주는 것이 목표인 스토리텔링형 시리어스 게임<br/>
@@ -22,9 +22,9 @@
   <br/><img width="50%" src="https://github.com/user-attachments/assets/c29e0e77-6f84-4a1d-87fe-d450a148165f"/><img width="50%" src="https://github.com/user-attachments/assets/007ab649-ffae-4da2-aa9c-ca6a6d613e25"/>
 * 미니게임
   * 메스버그 미니게임, 몬스터와의 전투, 마약 중독 치료 미니게임 통해 게임의 재미를 제공합니다.
-  <br/><img width="30%" src="https://github.com/user-attachments/assets/03938cdb-fa7c-41ce-984d-28878e01243c"/><img width="50%" src="https://github.com/user-attachments/assets/7704d661-ffbc-408d-b1c1-84f91c5d53db"/>
+  <br/><img width="50%" src="https://github.com/user-attachments/assets/03938cdb-fa7c-41ce-984d-28878e01243c"/><img width="50%" src="https://github.com/user-attachments/assets/7704d661-ffbc-408d-b1c1-84f91c5d53db"/>
 * 멀티 엔딩 연출
-  * 마약의 작용, 부작용으로 인해 여러 갈림길에서 맞게 되는 다양한 베드 엔딩을 연출하여 사용자가 마약의 위험성 체감하도록 합니다.
+  * 마약의 작용, 부작용으로 인해 여러 갈림길에서 맞게 되는 다양한 베드 엔딩을 연출하여 사용자가 마약의 위험성을 체감하도록 합니다.
   <br/><img width="50%" src="https://github.com/user-attachments/assets/305703fd-4eda-4153-8269-6c77c384a4f9"/><img width="50%" src="https://github.com/user-attachments/assets/b7a51178-8a9b-44df-b7c8-911a7d0d3da0"/>
 ## 프로젝트 개요
 ### 개발 기간
@@ -35,10 +35,21 @@
 ### 수행업무
 프로젝트 팀원은 5명으로 그 중 개발에 참여하여 다음과 같은 부분을 담당하였습니다.
 * 사운드 시스템 제작
-* Fungus를 활용한 대사 출력 및 이벤트 호출 제작
+  * ScriptableObject를 활용한 오디오 데이터(오디오 번호, 오디오 클립, 루프 유무, 볼륨, 오디오 믹서 등) 관리
+  * 맵 Scene과 Player 씬의 독립성 유지를 위해 ScriptableObject를 이벤트 채널로 사용하여 오디오 재생
+* Fungus를 활용한 대사 출력 및 이벤트 호출 등 스토리 진행 관련 제작
+  * 대사 입력 및 컷씬 이동 제작
+  * 스토리 진행 관련 이벤트 Fungus command 커스텀 제작
+  * ScriptableObject를 활용한 스토리 진행 데이터 관리
+  * 스토리 진행 애니메이션 제작
 * Post Processing을 활용한 환각 효과 제작
 * 씬 이동 시스템 제작
+  * ScriptableObject를 활용한 씬 데이터 관리
 * 세이브 시스템 제작
+  * Json을 활용한 세이브 파일 관리
+  * 불러오기 / 저장하기 제작
 * 신경 세포 연결 퍼즐 미니게임 제작
+* Player 데이터 관리
+  * ScriptableObject를 활용한 Player 데이터 관
 ## 프로젝트 성과
 * 서울여자대학교 디지털미디어학과 제 7회 졸업전시회 참여
