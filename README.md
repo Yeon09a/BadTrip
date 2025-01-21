@@ -43,6 +43,7 @@
   * ScriptableObject를 활용한 스토리 진행 데이터 관리
   * 스토리 진행 애니메이션 제작
 * Post Processing을 활용한 환각 효과 제작
+  * Coroutine을 활용한 점진적 환각 효과 제작
 * 씬 이동 시스템 제작
   * ScriptableObject를 활용한 씬 데이터 관리
 * 세이브 시스템 제작
