@@ -51,6 +51,7 @@
   * 불러오기 / 저장하기 제작
 * 신경 세포 연결 퍼즐 미니게임 제작
 * Player 데이터 관리
-  * ScriptableObject를 활용한 Player 데이터 관
+  * ScriptableObject를 활용한 Player 데이터 관리
 ## 프로젝트 성과
 * 서울여자대학교 디지털미디어학과 제 7회 졸업전시회 참여
+* 한국저작권위원회 등록
