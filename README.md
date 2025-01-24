@@ -24,7 +24,7 @@
   * 메스버그 미니게임, 몬스터와의 전투, 마약 중독 치료 미니게임 통해 게임의 재미를 제공합니다.
   <br/><img width="50%" src="https://github.com/user-attachments/assets/03938cdb-fa7c-41ce-984d-28878e01243c"/><img width="50%" src="https://github.com/user-attachments/assets/7704d661-ffbc-408d-b1c1-84f91c5d53db"/>
 * 멀티 엔딩 연출
-  * 마약의 작용, 부작용으로 인해 여러 갈림길에서 맞게 되는 다양한 베드 엔딩을 연출하여 사용자가 마약의 위험성을 체감하도록 합니다.
+  * 마약의 작용, 부작용으로 인해 여러 갈림길에서 맞게 되는 다양한 배드 엔딩을 연출하여 사용자가 마약의 위험성을 체감하도록 합니다.
   <br/><img width="50%" src="https://github.com/user-attachments/assets/305703fd-4eda-4153-8269-6c77c384a4f9"/><img width="50%" src="https://github.com/user-attachments/assets/b7a51178-8a9b-44df-b7c8-911a7d0d3da0"/>
 ## 프로젝트 개요
 ### 개발 기간
