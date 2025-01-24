@@ -36,7 +36,7 @@
 프로젝트 팀원은 5명으로 그 중 개발에 참여하여 다음과 같은 부분을 담당하였습니다.
 * 사운드 시스템 제작
   * ScriptableObject를 활용한 오디오 데이터(오디오 번호, 오디오 클립, 루프 유무, 볼륨, 오디오 믹서 등) 관리
-  * 맵 Scene과 Player 씬의 독립성 유지를 위해 ScriptableObject를 이벤트 채널로 사용하여 오디오 재생
+  * 맵 Scene과 Initialization Scene의 독립성 유지를 위해 ScriptableObject를 이벤트 채널로 사용하여 오디오 재생
 * Fungus를 활용한 대사 출력 및 이벤트 호출 등 스토리 진행 관련 제작
   * 대사 입력 및 컷씬 이동 제작
   * 스토리 진행 관련 이벤트 Fungus command 커스텀 제작
