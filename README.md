@@ -33,24 +33,32 @@
 * Fungus
 ### 수행업무
 프로젝트 팀원은 5명으로 그 중 개발에 참여하여 다음과 같은 부분을 담당하였습니다.
-* 사운드 시스템 제작
-  * ScriptableObject를 활용한 오디오 데이터(오디오 번호, 오디오 클립, 루프 유무, 볼륨, 오디오 믹서 등) 관리
-  * 맵 Scene과 Initialization Scene의 독립성 유지를 위해 ScriptableObject를 이벤트 채널로 사용하여 오디오 재생
-* Fungus를 활용한 대사 출력 및 이벤트 호출 등 스토리 진행 관련 제작
-  * 대사 입력 및 컷씬 이동 제작
-  * 스토리 진행 관련 이벤트 Fungus command 커스텀 제작
-  * ScriptableObject를 활용한 스토리 진행 데이터 관리
-  * 스토리 진행 애니메이션 제작
-* Post Processing을 활용한 환각 효과 제작
-  * Coroutine을 활용한 점진적 환각 효과 제작
-* 씬 이동 시스템 제작
-  * ScriptableObject를 활용한 씬 데이터 관리
-* 세이브 시스템 제작
-  * Json을 활용한 세이브 파일 관리
-  * 불러오기 / 저장하기 제작
-* 신경 세포 연결 퍼즐 미니게임 제작
-* Player 데이터 관리
-  * ScriptableObject를 활용한 Player 데이터 관리
+<br/>사운드 시스템 제작
+* ScriptableObject를 활용한 오디오 데이터(오디오 번호, 오디오 클립, 루프 유무, 볼륨, 오디오 믹서 등) 관리
+* 맵 Scene과 Initialization Scene의 독립성 유지를 위해 ScriptableObject를 이벤트 채널로 사용하여 오디오 재생
+
+Fungus를 활용한 대사 출력 및 이벤트 호출 등 스토리 진행 관련 제작
+* 대사 입력 및 컷씬 이동 제작
+* 스토리 진행 관련 이벤트 Fungus command 커스텀 제작
+* ScriptableObject를 활용한 스토리 진행 데이터 관리
+* 스토리 진행 애니메이션 제작
+
+Post Processing을 활용한 환각 효과 제작
+* Coroutine을 활용한 점진적 환각 효과 제작
+
+씬 이동 시스템 제작
+* ScriptableObject를 활용한 씬 데이터 관리
+
+세이브 시스템 제작
+* Json을 활용한 세이브 파일 관리
+* 불러오기 / 저장하기 제작
+* ScrollView를 활용한 세이브 UI 제작
+
+신경 세포 연결 퍼즐 미니게임 제작
+* Handler 인터페이스를 활용한 노드 연결 게임 제작
+
+Player 데이터 관리
+* ScriptableObject를 활용한 Player 데이터 관리
 ## 프로젝트 성과
 * 서울여자대학교 디지털미디어학과 제 7회 졸업전시회 참여
 * 한국저작권위원회 등록
