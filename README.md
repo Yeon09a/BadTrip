@@ -26,6 +26,7 @@
   * 마약의 작용, 부작용으로 인해 여러 갈림길에서 맞게 되는 다양한 배드 엔딩을 연출하여 사용자가 마약의 위험성을 체감하도록 합니다.
   <br/><img width="50%" src="https://github.com/user-attachments/assets/305703fd-4eda-4153-8269-6c77c384a4f9"/><img width="50%" src="https://github.com/user-attachments/assets/b7a51178-8a9b-44df-b7c8-911a7d0d3da0"/>
 ## 프로젝트 개요
+🔗자세한 내용은 Notion에서 확인하실 수 있으십니다.    [<img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>](https://www.notion.so/BadTrip-178b66b96b77808eb6aec3e3a98111d4?pvs=4)
 ### 개발 기간
 * 2024.03 - 2024.12 (약 9개월)
 ### 개발 환경
