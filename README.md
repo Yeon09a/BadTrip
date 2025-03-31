@@ -50,6 +50,7 @@ Post Processing을 활용한 환각 효과 제작
 
 씬 이동 시스템 제작
 * ScriptableObject를 활용한 씬 데이터 관리
+* Inspector 창의 씬 데이터 관리를 위한 직렬화 Dictionary(SerializedDictionary) 제작
 
 세이브 시스템 제작
 * Json을 활용한 세이브 파일 관리
